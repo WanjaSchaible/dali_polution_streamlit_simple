@@ -12,8 +12,6 @@ st.set_page_config(page_title='Polution Analysis', layout='wide',
                    initial_sidebar_state='expanded')
 
 st.title('Luftqualität Köln')
-st.sidebar.header("Menu")
-
 
 st.sidebar.markdown('''
 ---
